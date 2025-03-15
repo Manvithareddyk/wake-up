@@ -27,7 +27,7 @@ pip install opencv-python mediapipe numpy pygame
 Download the zip file from the repository.
 
 
-### 3️⃣ Run the Project  
+### 3️ Run the Project  
 
 
 After setting up the environment, execute the following command to start the detection:  
