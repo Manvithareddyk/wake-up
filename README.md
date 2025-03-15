@@ -23,16 +23,12 @@ The **Drowsiness Detection System** is a **computer vision-based** project that 
 ### 1️ Install Dependencies  
 Make sure you have Python installed. Then, install the required libraries:  
 pip install opencv-python mediapipe numpy pygame
-## 2️ Clone the Repository  
-
-To download this project on your local system, run the following command:  
-
-git clone https://github.com/your-username/drowsiness-detection.git
+### 2️  Download
+Download the zip file from the repository.
 
 
 ### 3️⃣ Run the Project  
-```md
-## 3️⃣ Run the Project  
+
 
 After setting up the environment, execute the following command to start the detection:  
 
